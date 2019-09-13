@@ -17,7 +17,7 @@
         "subtitleFont": "Montserrat",
         "textFont": "Open Sans",
         "isRoundedButtons": false,
-        "isAnimatedOnScroll": true,
+        "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
       },
       "additionalSetColors": []
@@ -25,7 +25,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.8",
     "siteFonts": [],
-    "uniqCompNum": 10,
+    "uniqCompNum": 11,
     "versionPublish": "4.10.8",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -57,7 +57,7 @@
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
                 "contentAlign": "center",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": false,
                 "showTitle": true,
@@ -100,15 +100,15 @@
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#form1-4\" data-toolbar=\"-mbrBtnMove\">QUERO</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-3.jpg",
                 "contentAlign": "center",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": false,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "title": "DESIGN &amp; LOGOMARCA<br>",
+                "title": "IDENTIDADE VISUAL",
                 "overlay": true,
                 "overlayOpacity": "0.3",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
